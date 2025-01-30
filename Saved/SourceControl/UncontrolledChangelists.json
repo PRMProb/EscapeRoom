@@ -5,7 +5,35 @@
 			"guid": "00000000000000000000000000000000",
 			"description": "Default Uncontrolled Changelist",
 			"files": [
-				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/StarterContent/Architecture/Floor_400x400.uasset"
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/StarterContent/Architecture/Floor_400x400.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/ThirdPerson/Input/Actions/IA_Jump.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/ThirdPerson/Input/IMC_Default.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/ThirdPerson/Blueprints/BP_ThirdPersonCharacter.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/DE/SWSI13675DVYIZ0N4NF7Y3.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/WH/BVQ7K7LBUTFN6UOAM7ZZBC.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/4U/O1WU1G2QZQ9HCW5HPGQWI2.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/0/HO/KDOMTUD9PLYPAFQUA49V7Z.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/WP/MRA5J9GRUOKHLBJGSZZ3LC.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/AA/J9BYS2Y5F3M48TGIGYVPMD.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/UQ/7JG6LNKND9OFFX39JCKX2K.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/C/MT/DE4S0Z8GZ4W7G4353XEMXA.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/QL/4P9FTCQY8NDNYL5ER9CM0U.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/0B/QJH38ZT9M2D2JF318ZX3RP.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/WU/GZ443S9UI5TDI0770GEVGH.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/O3/ZMZ4QHM5GX33KFHQK48PXS.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/2/D6/YQ30GNMGM99X9RPW0GZ0T0.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/8/N6/W64A5RKH2Z0MZ9PW4MT9Y0.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/7/2G/05ZILQJQ7P769S4GCA0M3O.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/9/DP/1WV5JIPHGAKADRY1UHLLKT.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/B/0X/FPIH5NP1MJR4G8OSXMLBT4.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/GW/Z5K8W6RZMUUVY5QSNUDBSZ.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/KB/M7UYRVLFLNKSP0WB26BUQQ.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/TP/RRALYT9PW2Y8JM6W2K4WYC.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/A/CG/GT4O5MBXN98H4SV1JO64U8.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/E/QZ/X5N4J3GV7ID2WGUICU4AI7.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/4/PF/XF3M4GGTN2HV82Y7LS1SCC.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/D/VL/M6EHDBEUYYETZK9T6O4BJN.uasset",
+				"C:/Users/GAME2/Documents/Unreal Projects/EscapeRoom/Content/__ExternalActors__/ThirdPerson/Maps/ThirdPersonMap/3/XG/7DT0WOD6TZRGKK9QQJ3FU2.uasset"
 			]
 		}
 	]
